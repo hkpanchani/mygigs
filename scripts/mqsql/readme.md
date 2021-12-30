@@ -1,2 +1,3 @@
-*Crontab*
-0 */24 * * * /root/mysql_backups/backups.sh
+**Crontab**
+
+`0 */24 * * * /root/mysql_backups/backups.sh`
